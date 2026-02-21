@@ -1,2 +1,2 @@
-# DOSW_Lab5_BogotaSeguraVelez
+# DOSW_Lab5_JJK
 Laboratorio 5 DOSW
