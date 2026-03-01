@@ -422,3 +422,7 @@ FodyWeavers.xsd
 
 .mvn/
 target/
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
