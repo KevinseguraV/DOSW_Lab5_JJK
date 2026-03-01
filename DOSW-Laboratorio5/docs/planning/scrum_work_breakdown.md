@@ -22,8 +22,8 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID** | HU-01                                                                                                                             |
 | **Título** | Validar datos de la cuenta antes del depósito                                                                                     |
 | **Descripción** | *Como cliente quiero que el sistema valide el número de cuenta antes de realizar el depósito para poder evitar erroes o fraudes.* |
-| **Prioridad** | *Alta* |                                                                                                                           |
-| **Estimación** | *Puntos de historia (Se hace en parte 4)*                                                                                         |
+| **Prioridad** | *Alta*                                                                                                                            |                                                                                                                           |
+| **Estimación** | *5*                                                                                                                               |
 
 ---
 
@@ -35,7 +35,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Registrar depósito vía PSE                                                                                     |
 | **Descripción** | *Como cliente quiero realizar un depósito mediante PSE para transferir dinero de manera electrónica y segura.* |
 | **Prioridad** | *Alta*                                                                                                         |
-| **Estimación** | **                                                                                                             |
+| **Estimación** | *8*                                                                                                            |
 
 ---
 
@@ -47,7 +47,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Actualizar saldo automáticamente                                                                                                               |
 | **Descripción** | *Como cliente quiero que el saldo de mi cuenta se actualice automáticamente después del depósito para ver reflejado mi dinero en tiempo real.* |
 | **Prioridad** | *Alta*                                                                                                                                         |
-| **Estimación** | **                                                                                                                                             |
+| **Estimación** | *4*                                                                                                                                            |
 
 ---
 
@@ -59,7 +59,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **Título** | Registrar historial de transacciones                                                                                                            |
 | **Descripción** | *Como cliente quiero que el sistema registre el depósito en mi historial de movimientos para poder consultar mis transacciones posteriormente.* |
 | **Prioridad** | *Media*                                                                                                                                         |
-| **Estimación** | **                                                                                                                                              |
+| **Estimación** | *8*                                                                                                                                             |
 
 ### 3. Tareas:
 
