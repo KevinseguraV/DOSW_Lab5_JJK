@@ -63,3 +63,5 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 ### 5. Backlog:
 ![BacklogJira](DOSW-Laboratorio5/docs/images/BacklogJira.png)
 
+## Creación y asignación de tareas Sprint 0
+![Prueba Sprint 0](DOSW-Laboratorio5/docs/images/SprintHU.png)

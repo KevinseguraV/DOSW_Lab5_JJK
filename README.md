@@ -50,5 +50,9 @@ Sí, en la mayoría de los casos fue sencillo, ya que Planning Poker permitió d
 Cuando hubo diferencias grandes, cada integrante explicó su estimación, se aclararon dudas y luego se realizó una nueva votación hasta llegar a un acuerdo.
 
 ---
+## Sprint Backlog
+![Justificacion plan de sprint](DOSW-Laboratorio5/docs/images/justificacionPlan.png)
+
+---
 > Escuela Colombiana de Ingeniería Julio Garavito  
 > Desarrollo y Operaciones de Software – DOSW
