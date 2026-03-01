@@ -17,49 +17,49 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 
 ### HU-01
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-01 |
-| **Título** | Validar datos de la cuenta antes del depósito |
+| Campo | Descripción                                                                                                                       |
+|------|-----------------------------------------------------------------------------------------------------------------------------------|
+| **ID** | HU-01                                                                                                                             |
+| **Título** | Validar datos de la cuenta antes del depósito                                                                                     |
 | **Descripción** | *Como cliente quiero que el sistema valide el número de cuenta antes de realizar el depósito para poder evitar erroes o fraudes.* |
-| **Prioridad** | *[Alta] [Media] [Baja] Lo hace el product owner* |
-| **Estimación** | *Puntos de historia (Se hace en parte 4)* |
+| **Prioridad** | *Alta* |                                                                                                                           |
+| **Estimación** | *Puntos de historia (Se hace en parte 4)*                                                                                         |
 
 ---
 
 ### HU-02
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-02 |
-| **Título** | Registrar depósito vía PSE |
+| Campo | Descripción                                                                                                    |
+|------|----------------------------------------------------------------------------------------------------------------|
+| **ID** | HU-02                                                                                                          |
+| **Título** | Registrar depósito vía PSE                                                                                     |
 | **Descripción** | *Como cliente quiero realizar un depósito mediante PSE para transferir dinero de manera electrónica y segura.* |
-| **Prioridad** | ** |
-| **Estimación** | ** |
+| **Prioridad** | *Alta*                                                                                                         |
+| **Estimación** | **                                                                                                             |
 
 ---
 
 ### HU-03
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-03 |
-| **Título** | Actualizar saldo automáticamente |
+| Campo | Descripción                                                                                                                                    |
+|------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| **ID** | HU-03                                                                                                                                          |
+| **Título** | Actualizar saldo automáticamente                                                                                                               |
 | **Descripción** | *Como cliente quiero que el saldo de mi cuenta se actualice automáticamente después del depósito para ver reflejado mi dinero en tiempo real.* |
-| **Prioridad** | ** |
-| **Estimación** | ** |
+| **Prioridad** | *Alta*                                                                                                                                         |
+| **Estimación** | **                                                                                                                                             |
 
 ---
 
 ### HU-04
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | HU-04 |
-| **Título** | Registrar historial de transacciones |
+| Campo | Descripción                                                                                                                                     |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **ID** | HU-04                                                                                                                                           |
+| **Título** | Registrar historial de transacciones                                                                                                            |
 | **Descripción** | *Como cliente quiero que el sistema registre el depósito en mi historial de movimientos para poder consultar mis transacciones posteriormente.* |
-| **Prioridad** | ** |
-| **Estimación** | ** |
+| **Prioridad** | *Media*                                                                                                                                         |
+| **Estimación** | **                                                                                                                                              |
 
 ### 3. Tareas:
 
