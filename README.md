@@ -35,6 +35,20 @@ Aplicar herramientas de planeación utilizando los frameworks ágiles **Scrum** 
 - 📄 **Maven** – Estructura del proyecto  
 
 ---
+## 5. Reflexión sobre la estimación con Planning Poker
 
+### a. ¿Cuál fue la mayor dificultad a la hora de estimar?
+
+La mayor dificultad fue entender completamente el alcance de cada historia de usuario, ya que algunos miembros tenían diferentes interpretaciones sobre la complejidad y el esfuerzo requerido.
+
+### b. ¿Fue fácil llegar a un consenso?
+
+Sí, en la mayoría de los casos fue sencillo, ya que Planning Poker permitió discutir las diferencias y alinear criterios antes de definir la estimación final.
+
+### c. ¿Cómo resolvieron los escenarios donde las estimaciones no fueron cercanas?
+
+Cuando hubo diferencias grandes, cada integrante explicó su estimación, se aclararon dudas y luego se realizó una nueva votación hasta llegar a un acuerdo.
+
+---
 > Escuela Colombiana de Ingeniería Julio Garavito  
 > Desarrollo y Operaciones de Software – DOSW

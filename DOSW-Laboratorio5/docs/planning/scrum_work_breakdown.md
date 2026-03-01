@@ -204,3 +204,7 @@ La implementación de los requerimientos identificados de Bankify se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04 |
 | **Descripción** | *Permitir al cliente consultar el historial de transacciones.* |
 | **Tareas requisito** | *TR-11* |
+
+---
+## Estimacion de Hsitorias de usuario con plannig Poker
+- [Plannig Poker](https://youtu.be/TFiDMe5WPUY)
